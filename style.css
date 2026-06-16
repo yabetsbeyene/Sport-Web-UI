@@ -1,9 +1,5 @@
-<!-- ============================================================
-       GLOBAL STYLES & DESIGN TOKENS
-  ============================================================ -->
  
-    /* ── Design Tokens ─────────────────────────────────────────── */
-    :root {
+     :root {
       --navy:       #0A0F1E;
       --navy-mid:   #111827;
       --steel:      #1E3A5F;
@@ -1068,7 +1064,7 @@
       margin-bottom: 1rem;
     }
     .testimonial-text {
-      color: rgba(255,255,255,.75);
+      color: rgba(10, 10, 10, 0.75);
       font-size: .925rem;
       line-height: 1.75;
       font-style: italic;
